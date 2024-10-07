@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wsJb/V8qwvqxa8ifqpPR2xnKgQIlXsrWxW1qg+/IWl+/dl7lvIOfdapO48dZ5gbpxpyBOqGC1lM3zCQ8WO6L0A==",
+  "dgSpecHash": "ye56eSE80FDQKR3sJp728bNITN2Fgr6CpOR6y3YLVW0qhR20XznY1SYm1OG18mMmTRirMOF1YW9I2W5AJxLKBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bb_br\\OneDrive - BYU-Idaho\\StickyNoteApp\\StickyNoteApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bb_br\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\bb_br\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\bb_br\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\bb_br\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }

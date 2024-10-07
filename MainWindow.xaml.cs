@@ -20,4 +20,11 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
     }
+
+    private void SaveNote_Click(object sender, RoutedEventArgs e)
+    {
+        string title = NoteTitle.Text;
+        string content = NoteContent.Text;
+        MessageBox.Show($"Title: {title}\nContent: {content}");
+    }
 }
